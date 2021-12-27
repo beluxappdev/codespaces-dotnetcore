@@ -2,6 +2,7 @@
   "name": "Codespaces .NET Core Starter",
   "extensions": [
     "cschleiden.vscode-github-actions",
+    "GitHub.copilot",
     "donjayamanne.githistory",
     "eamodio.gitlens",
     "editorconfig.editorconfig",
